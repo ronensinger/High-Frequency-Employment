@@ -1,0 +1,223 @@
+1475244003.75: Time to go...
+1475244003.92: Test Trade... 170.219 Milliseconds
+1475244003.92: Getting the report...
+1475244004.02: Got Report... 96.406 Milliseconds
+<!DOCTYPE html>
+<html>
+<head>
+  <title>
+      Surveys of Consumers
+  </title>
+  <link href="/stylesheets/application-f31baf3f.css" rel="stylesheet" type="text/css" />
+  <script src='http://use.typekit.com/vog3ohp.js' type='text/javascript'></script>
+  <script type='text/javascript'>try{Typekit.load();}catch(e){}</script>
+</head>
+<body>
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-PL78PF"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-PL78PF');</script>
+<!-- End Google Tag Manager -->
+<div id='header'>
+  <div class='container_12'>
+    <div class='grid_12'>
+<a href="/">        <img src="/images/logo-yellow-ccf29e42.png" />
+</a>    </div>
+    <div class='clear'></div>
+  </div>
+</div>
+<div id='navigation'>
+  <div class='container_12'>
+    <div class='grid_12'>
+      <ul>
+        <li class="active"><a href="/">Home</a></li>
+        <li><a href="/tables.html">Tables</a></li>
+        <li><a href="/charts.html">Charts</a></li>
+            <li><a href="/reports.html">Reports</a></li>
+        <li><a href="/contact.html">Contact</a></li>
+        <li>
+          <a href="http://data.sca.isr.umich.edu">Main Site</a>
+        </li>
+      </ul>
+    </div>
+    <div class='clear'></div>
+  </div>
+</div>
+<div id='content'>
+  <div id="home" class='container_12'>
+  <div class='grid_9'>
+    <div class="page_title">
+      Final Results for September 2016
+    </div>
+    
+    <table id="front_table">
+      <tr>
+          <td class="">
+            
+          </td>
+          <td class="em">
+            Sep
+          </td>
+          <td class="">
+            Aug
+          </td>
+          <td class="">
+            Sep
+          </td>
+          <td class="">
+            M-M
+          </td>
+          <td class="">
+            Y-Y
+          </td>
+      </tr>
+      <tr>
+          <td class="">
+            
+          </td>
+          <td class="em">
+            2016
+          </td>
+          <td class="">
+            2016
+          </td>
+          <td class="">
+            2015
+          </td>
+          <td class="">
+            Change
+          </td>
+          <td class="">
+            Change
+          </td>
+      </tr>
+      <tr>
+          <td class="">
+            Index of Consumer Sentiment
+          </td>
+          <td class="em">
+            91.2
+          </td>
+          <td class="">
+            89.8
+          </td>
+          <td class="">
+            87.2
+          </td>
+          <td class="">
+            +1.6%
+          </td>
+          <td class="">
+            +4.6%
+          </td>
+      </tr>
+      <tr>
+          <td class="">
+            Current Economic Conditions
+          </td>
+          <td class="em">
+            104.2
+          </td>
+          <td class="">
+            107.0
+          </td>
+          <td class="">
+            101.2
+          </td>
+          <td class="">
+            -2.6%
+          </td>
+          <td class="">
+            +3.0%
+          </td>
+      </tr>
+      <tr>
+          <td class="">
+            Index of Consumer Expectations
+          </td>
+          <td class="em">
+            82.7
+          </td>
+          <td class="">
+            78.7
+          </td>
+          <td class="">
+            78.2
+          </td>
+          <td class="">
+            +5.1%
+          </td>
+          <td class="">
+            +5.8%
+          </td>
+      </tr>
+    </table>
+  </div>
+  <div class="clear"></div>
+  
+  <div class="grid_12">
+    <div class="next_release_note">
+      Next data release: October 14, 2016 for Preliminary October data at 10am ET
+
+    </div>
+  </div>
+  <div class="clear"></div>
+  
+  <div class="grid_9" id="richnote">
+    <div class="page_title">
+      Surveys of Consumers chief economist, Richard Curtin
+    </div>
+    <div>
+      Confidence edged upward in September due to gains among higher income households, while the Sentiment Index among households with incomes under $75,000 has remained at exactly the same level for the third consecutive month. Importantly, the data provide no evidence of an upward trend as the average level of the Sentiment Index since the start of 2016 is nearly identical with the September level (91.4 versus 91.2). All of the September gains were concentrated in the Expectations Index, while assessments of current economic conditions were slightly less favorable. Fewer reports of recent income gains were counterbalanced by an uptick in income gains expected during the year ahead. The larger recent gains among upper income households was partly due to continued declines in their inflation expectations. Buying plans edged downward mainly due to the declining availability of price discounts. Real personal consumption expenditures can be expected to increase by 2.7% through mid 2017.
+    </div>
+  </div>
+</div>
+
+</div>
+<div id='footer'>
+  <div class='container_12'>
+    <div class='grid_12'>
+      <img src="/images/footer-logos-1de09950.png" />
+      <br/>
+      Copyright &copy; 2016, The Regents of the University of Michigan.  All Rights Reserved.
+      <br/>
+      <br/>
+    </div>
+  </div>
+</body>
+
+1475244004.02: Printed Document... 5.526 Milliseconds
+1475244004.02: Document Request Data:
+Url: http://www.sca.isr.umich.edu/
+STATUS CODE: 200
+Request History []
+Headers: CaseInsensitiveDict({'content-encoding': 'gzip', 'transfer-encoding': 'chunked', 'server': 'nginx', 'last-modified': 'Fri, 30 Sep 2016 13:58:01 GMT', 'connection': 'keep-alive', 'date': 'Fri, 30 Sep 2016 14:00:04 GMT', 'content-type': 'text/html'})
+Encoding: ISO-8859-1
+Response Length: 5433
+1475244004.02: Got Report... 0.089 Milliseconds
+1475244004.03: Parsing Report... 3.027 Milliseconds
+1475244004.03: Sep 2016 91.2 104.2 82.7
+1475244004.03:  91.2 104.2 82.7
+1475244004.03: 91.2
+1475244004.03: Got Actual... 0.032 Milliseconds
+1475244004.1: {'USD_CAD': 0, u'AUD_JPY': -1, 'EUR_USD': 0, 'GBP_USD': 0}
+1475244004.1: Got Positions... 71.241 Milliseconds
+1475244004.1: Trading...
+1475244004.1: Decision: BUY the US Dollar
+1475244004.1: Imbalance of 15 for USD_CAD
+1475244004.1: Buying 15 USD_CAD
+1475244004.16: {u'price': 1.3122, u'tradeReduced': {}, u'instrument': u'USD_CAD', u'tradesClosed': [], u'time': u'2016-09-30T14:00:04.000000Z', u'tradeOpened': {u'stopLoss': 0, u'takeProfit': 0, u'side': u'buy', u'trailingStop': 0, u'units': 15, u'id': 10452953942}}
+1475244004.16: Bought USD_CAD... 63.659 Milliseconds
+1475244004.16: Imbalance of -15 for EUR_USD
+1475244004.16: Selling -15 EUR_USD
+1475244004.23: {u'price': 1.12086, u'tradeReduced': {}, u'instrument': u'EUR_USD', u'tradesClosed': [], u'time': u'2016-09-30T14:00:04.000000Z', u'tradeOpened': {u'stopLoss': 0, u'takeProfit': 0, u'side': u'sell', u'trailingStop': 0, u'units': 15, u'id': 10452953958}}
+1475244004.23: Sold EUR_USD... 68.545 Milliseconds
+1475244004.23: Imbalance of -15 for GBP_USD
+1475244004.23: Selling -15 GBP_USD
+1475244004.31: {u'price': 1.2984, u'tradeReduced': {}, u'instrument': u'GBP_USD', u'tradesClosed': [], u'time': u'2016-09-30T14:00:04.000000Z', u'tradeOpened': {u'stopLoss': 0, u'takeProfit': 0, u'side': u'sell', u'trailingStop': 0, u'units': 15, u'id': 10452953964}}
+1475244004.31: Sold GBP_USD... 79.396 Milliseconds
+1475244004.31: Done... 558.267 Milliseconds
