@@ -1,5 +1,5 @@
 # High-Frequency-Employment
-This algorithm uses a custom word recognition program and PyQuery to download the monthly unemployment report as soon as it is available, and make intelligent traders.
+This algorithm uses a custom word recognition program and PyQuery to download and analyze the monthly non-farm unemployment report as soon as it is available, in order to place currency trades before conventional traders do.
 
 ## The Monthly Employment Report
 On the first Friday of every month at precisely 8:30 a.m., the Bureau of Labor Statistics (BLS) releases its monthly **Employment Report**. This report has a paramount impact on US and Global Markets.
