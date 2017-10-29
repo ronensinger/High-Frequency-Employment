@@ -63,6 +63,9 @@ The bot has trouble being profitable. Although it places buy and sell orders lon
 
 
 # Conclusion
+### Developement
+Developing this algorithm was incredibly frustrating. Since the report comes out once a month, you have only one shot at getting it right (otherwise you have to wait another month). It took me 2 months and many improvements to get the report right.
+
 The Employment Bot itself runs lightning fast, taking on average, 250 milliseconds to initialize, import neccessary libraries, download/parse the report, and trade.
 A sample file of the bots output when it ran nearly a year ago (it prints what it's thinking to help me debug) is located in the **log.txt.out** file.
 All the other files are neccessary components to run the algorithm.
