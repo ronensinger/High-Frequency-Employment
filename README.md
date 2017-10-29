@@ -67,7 +67,7 @@ The Employment Bot itself runs lightning fast, taking on average, 250 millisecon
 A sample file of the bots output when it ran nearly a year ago (it prints what it's thinking to help me debug) is located in the **log.txt.out** file.
 All the other files are neccessary components to run the algorithm.
 
-Credit to **PyQuery** the python program that parses PDFs into text form.
+Credit to **PyQuery** the python program that parses PDFs and HTML into machine-readable text form.
 
 A similar trading bot has been included for the **Michigan Consumer Confidence Report** in the Michigan folder, however, it isn't profitable.
 
