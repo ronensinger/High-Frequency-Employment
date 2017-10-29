@@ -5,6 +5,10 @@ This algorithm uses a custom word recognition program and PyQuery to download th
 On the first Friday of every month at precisely 8:30 a.m., the Bureau of Labor Statistics (BLS) releases its monthly **Employment Report**. This report has a paramount impact on US and Global Markets.
 If job growth exceeds estimates, the US Stock Market and US Dollar rally, and if job growth disappoints, the US Stock Market and US Dollar crash significantly.
 
+A screenshot of what the actual report looks like is below:
+![](http://ronen.io/report.PNG)
+
+
 ## The Algorithm
 The algorithm located in the assassin.py file downloads the report as soon as it's online.
 
