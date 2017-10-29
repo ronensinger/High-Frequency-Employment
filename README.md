@@ -31,6 +31,15 @@ a few minutes before the report comes out, and the algorithm is ready to go!
 
 It will  wait until 8:30, like a silent assassin, and will spring into action as soon as the report comes out, and will hopefully make you money!
 
+If you're interested in examining the actual word recognition program, please refer to:
+```
+pull.py
+```
+If you're interested in examining the trading mechanics, please refer to:
+```
+assassin.py
+```
+
 ### Running the Bot
 
 To run the bot, you need a funded account at forex broker **OANDA**. Once you have your account, download the code in this repository and change:
