@@ -14,7 +14,12 @@ The algorithm located in the assassin.py file downloads the report as soon as it
 
 The algorithm interprets the report and searches for keywords such as "nonfarm" and "payroll" the two words that preceed the employment figure.
 
-It then searches for trend keywords such as 'fell', 'fall', 'decrease', 'decreased', 'slumped', 'plummet', 'plummeted', 'dive', 'dived', 'retreat', 'retreated', 'decline', 'declined', and 'down' to determine whether the numerical figure represents positive or negative growth.
+It then searches for trend keywords such as 
+
+```
+'fell', 'fall', 'decrease', 'decreased', 'slumped', 'plummet', 'plummeted', 'dive', 'dived', 'retreat', 'retreated', 'decline', 'declined', and 'down' 
+```
+to determine whether the numerical figure represents positive or negative growth.
 
 Once the algorithm determines the change in employment, it compares the change to analyst estimates. If the report is a clear beat, it purchases US Dollars immediately. however, if the report is a dissapointment, is shorts (sells) US Dollars.
 
