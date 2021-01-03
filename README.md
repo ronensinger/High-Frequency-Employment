@@ -1,3 +1,5 @@
+Copyright Ronen Singer, All Rights Reserved
+
 # High-Frequency-Employment
 This algorithm uses a custom word recognition program and PyQuery to download and analyze the monthly non-farm unemployment report as soon as it is available, in order to place currency trades before conventional traders do.
 
